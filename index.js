@@ -14,4 +14,7 @@ function happyHolidays()
    return (`Happy holidays, ${omid}!`);
  }
 
-function 
+function holidayCountdown(mothers day , days=20 )
+{
+  
+}
